@@ -22,9 +22,9 @@ author: Chitra
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://"
-    - Learn markdown: "https://"
-  Author's home: "https://"
+#    - Beautiful Jekyll: "https://"
+#    - Learn markdown: "https://"
+#  Author's home: "https://"
 
 ################
 # --- Logo --- #
